@@ -1,0 +1,18 @@
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\bin\Release\net5.0-windows\win-x64\MSFS PMDG 737-700 Panel Randomiser.exe
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\bin\Release\net5.0-windows\win-x64\MSFS PMDG 737-700 Panel Randomiser.deps.json
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\bin\Release\net5.0-windows\win-x64\MSFS PMDG 737-700 Panel Randomiser.runtimeconfig.json
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\bin\Release\net5.0-windows\win-x64\MSFS PMDG 737-700 Panel Randomiser.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\bin\Release\net5.0-windows\win-x64\MSFS PMDG 737-700 Panel Randomiser.dll
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\bin\Release\net5.0-windows\win-x64\MSFS PMDG 737-700 Panel Randomiser.pdb
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\obj\Release\net5.0-windows\win-x64\MSFS PMDG 737-700 Panel Randomiser.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\obj\Release\net5.0-windows\win-x64\MSFS PMDG 737-700 Panel Randomiser.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\obj\Release\net5.0-windows\win-x64\MSFS PMDG 737-700 Panel Randomiser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\obj\Release\net5.0-windows\win-x64\MSFS PMDG 737-700 Panel Randomiser.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\obj\Release\net5.0-windows\win-x64\MSFS PMDG 737-700 Panel Randomiser.AssemblyInfo.cs
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\obj\Release\net5.0-windows\win-x64\MSFS PMDG 737-700 Panel Randomiser.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\obj\Release\net5.0-windows\win-x64\MSFS PMDG 737-700 Panel Randomiser.dll
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\obj\Release\net5.0-windows\win-x64\refint\MSFS PMDG 737-700 Panel Randomiser.dll
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\obj\Release\net5.0-windows\win-x64\MSFS PMDG 737-700 Panel Randomiser.pdb
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\obj\Release\net5.0-windows\win-x64\MSFS PMDG 737-700 Panel Randomiser.genruntimeconfig.cache
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\obj\Release\net5.0-windows\win-x64\ref\MSFS PMDG 737-700 Panel Randomiser.dll
+C:\Users\Andre\source\repos\MSFS PMDG 737-700 Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser\obj\Release\net5.0-windows\win-x64\MSFS_PMDG_737_700_Panel_Randomiser.Form1.resources

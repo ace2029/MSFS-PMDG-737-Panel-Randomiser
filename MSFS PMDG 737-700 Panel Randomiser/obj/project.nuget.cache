@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2w2xcDjJb4WBTqXR0ScWRbMfNuE+hiTY4bWsCXGJpl9XFgHpN1b8YUirbglgI/epzJmi3Wgk04pJCHmYq4LRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andre\\source\\repos\\MSFS PMDG 737-700 Panel Randomiser\\MSFS PMDG 737-700 Panel Randomiser\\MSFS PMDG 737-700 Panel Randomiser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.16\\microsoft.netcore.app.runtime.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.16\\microsoft.aspnetcore.app.runtime.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.16\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

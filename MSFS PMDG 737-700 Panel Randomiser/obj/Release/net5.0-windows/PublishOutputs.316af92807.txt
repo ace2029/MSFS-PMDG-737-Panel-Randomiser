@@ -1,0 +1,5 @@
+D:\FlightSim\Community\PMDG Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser.exe
+D:\FlightSim\Community\PMDG Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser.dll
+D:\FlightSim\Community\PMDG Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser.deps.json
+D:\FlightSim\Community\PMDG Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser.runtimeconfig.json
+D:\FlightSim\Community\PMDG Panel Randomiser\MSFS PMDG 737-700 Panel Randomiser.pdb
