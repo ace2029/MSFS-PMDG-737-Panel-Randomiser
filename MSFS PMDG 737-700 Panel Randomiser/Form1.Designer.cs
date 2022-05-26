@@ -36,7 +36,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(12, 139);
+            this.button1.Location = new System.Drawing.Point(12, 71);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(414, 38);
             this.button1.TabIndex = 0;
@@ -46,7 +46,7 @@
             // 
             // hScrollBar1
             // 
-            this.hScrollBar1.Location = new System.Drawing.Point(12, 110);
+            this.hScrollBar1.Location = new System.Drawing.Point(12, 42);
             this.hScrollBar1.Maximum = 109;
             this.hScrollBar1.Name = "hScrollBar1";
             this.hScrollBar1.Size = new System.Drawing.Size(378, 26);
@@ -56,7 +56,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(398, 112);
+            this.label1.Location = new System.Drawing.Point(398, 44);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(17, 20);
             this.label1.TabIndex = 2;
@@ -65,7 +65,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 81);
+            this.label2.Location = new System.Drawing.Point(12, 13);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(189, 20);
             this.label2.TabIndex = 3;
@@ -75,7 +75,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(438, 189);
+            this.ClientSize = new System.Drawing.Size(438, 123);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.hScrollBar1);
