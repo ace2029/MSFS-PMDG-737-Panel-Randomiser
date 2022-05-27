@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yM2Jb4wP8ApLNg47t987V9QnKXyoh+8PYZH7QO/SIFtuPqcJ9YFbv26+dILWs1U1s//IwyrKcPPBG6evrrx0bw==",
+  "dgSpecHash": "YH1txbpyKdhNiWAshZkZjj6dabdg1XBJ5X1+4JXTOXl97CywvTc+Skt5QxU5kBrYUq8sfd/XtoAzTW2+WeSBHQ==",
   "success": true,
   "projectFilePath": "H:\\OneDrive\\Visual Studio\\projects\\MTG Toolbox\\PMDG Panel Randomiser\\MSFS PMDG 737-700 Panel Randomiser\\MSFS PMDG 737-700 Panel Randomiser.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.16\\microsoft.netcore.app.runtime.win-x64.5.0.16.nupkg.sha512",
-    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.16\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.16.nupkg.sha512",
-    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.16\\microsoft.aspnetcore.app.runtime.win-x64.5.0.16.nupkg.sha512",
-    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.4\\microsoft.netcore.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.4\\microsoft.aspnetcore.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.4\\microsoft.netcore.app.crossgen2.win-x64.6.0.4.nupkg.sha512"
   ],
   "logs": []
 }
